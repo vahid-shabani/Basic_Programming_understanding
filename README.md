@@ -1,2 +1,2 @@
-# Basic_Programming_understanding_(python)
+# Basic_Programming_understanding
 Some Basic Python Code which can be interesting
